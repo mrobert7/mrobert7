@@ -26,7 +26,7 @@ We study the metabolic function and collective behaviour of *Escherichia coli*, 
 ## Selected Publications
 
 - Sakai R., Zhao Y. and **Robert M.** LOTUS: A low-cost time-lapse automated imaging system for spatio-temporal analysis of microbial colony or biofilm development. [*PLOS ONE* 21, e0339652 (2026)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339652) 
-- Cheng K.K., […] and **Robert M.** Global metabolic network reorganization by adaptive mutations allows fast growth of *Escherichia coli* on glycerol. [*Nature Communications* 5:3233 (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339652)
+- Cheng K.K., […] and **Robert M.** Global metabolic network reorganization by adaptive mutations allows fast growth of *Escherichia coli* on glycerol. [*Nature Communications* 5:3233 (2014)](http://dx.doi.org/10.1038/ncomms4233)
 - Iuchi H., Tomita M. and **Robert M.** Amino acid acetylation by orphan enzyme YhhY in *Escherichia coli*. *Keio SFC Journal* 15, 402–413 (2015)
 
 ---
