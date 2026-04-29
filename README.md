@@ -1,14 +1,14 @@
 # Martin Robert
 
 **Associate Professor**  
-Microbial Systems Biology Laboratory  
+Laboratory of Microbial Systems Biology
 Graduate School of Pharmaceutical Sciences · Kyoto University 🇯🇵
 
 ---
 
 ## Research
 
-we study the metabolic function and collective behaviour of *Escherichia coli*, particularly in biofilms growing at the solid-air interface. Our lab uses functional enzyme genomics, metabolomics, proteomics, and live imaging to understand how microbial communities develop and coordinate.
+We study the metabolic function and collective behaviour of *Escherichia coli*, particularly in biofilms growing at the solid-air interface. Our lab uses functional enzyme genomics, metabolomics, proteomics, and live imaging to understand how microbial communities develop and coordinate.
 
 **Keywords:** `E. coli` · `biofilms` · `metabolomics` · `proteomics` · `systems biology` · `bioelectric signaling` · `adaptive evolution` · `complex systems`
 
@@ -25,7 +25,7 @@ we study the metabolic function and collective behaviour of *Escherichia coli*, 
 
 ## Selected Publications
 
-- Sakai R., Zhao Y. and **Robert M.** LOTUS: A low-cost time-lapse automated imaging system for spatio-temporal analysis of microbial colony or biofilm development. *PLOS ONE* 21, e0339652 (2026)
+- Sakai R., Zhao Y. and **Robert M.** LOTUS: A low-cost time-lapse automated imaging system for spatio-temporal analysis of microbial colony or biofilm development. [*PLOS ONE* 21, e0339652 (2026)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339652) 
 - Cheng K.K., […] and **Robert M.** Global metabolic network reorganization by adaptive mutations allows fast growth of *Escherichia coli* on glycerol. *Nature Communications* 5:3233 (2014)
 - Iuchi H., Tomita M. and **Robert M.** Amino acid acetylation by orphan enzyme YhhY in *Escherichia coli*. *Keio SFC Journal* 15, 402–413 (2015)
 
@@ -42,8 +42,7 @@ we study the metabolic function and collective behaviour of *Escherichia coli*, 
 
 - 👀 We're interested in biochemistry, data analysis, computational biology, complex systems among other things.
 - 🌱 we're currently using mainly R, python and Fiji.
-- 💞️ We are interested to collaborate on image analysis for scientific applications.
-- 📫 How to reach me ...
+- 💞️ We are interested to collaborate on image analysis for scientific applications and other research topics related to our activities.
 
 <!---
 mrobert7/mrobert7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
